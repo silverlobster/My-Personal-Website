@@ -1,0 +1,12 @@
+#toptitle {
+    text-align: center;
+    font-size: 30px;
+}
+
+html body {
+    border: 1px outset black;
+    background-color: lightgrey;
+    padding: 15px;
+    text-align: center;
+    margin: 5px;
+}
