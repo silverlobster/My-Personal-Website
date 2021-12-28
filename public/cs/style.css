@@ -10,3 +10,7 @@ html body {
     text-align: center;
     margin: 5px;
 }
+
+.row {
+    padding: 15px;
+}
