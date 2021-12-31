@@ -14,3 +14,7 @@ html body {
 .row {
     padding: 15px;
 }
+
+.button {
+    margin: 5px;
+}
